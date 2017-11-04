@@ -1,0 +1,5 @@
+D:\Dokumente\Ping\hotels\CSH03\lektion5\bin\Debug\lektion5.exe.config
+D:\Dokumente\Ping\hotels\CSH03\lektion5\bin\Debug\lektion5.exe
+D:\Dokumente\Ping\hotels\CSH03\lektion5\bin\Debug\lektion5.pdb
+D:\Dokumente\Ping\hotels\CSH03\lektion5\obj\Debug\lektion5.exe
+D:\Dokumente\Ping\hotels\CSH03\lektion5\obj\Debug\lektion5.pdb

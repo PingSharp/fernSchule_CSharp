@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="fields werden im Konstruktor gesetzt &#xD;&#xA;properties sollen nur! getter haben&#xD;&#xA;Properties werden von Transpond und Senke 		Methode abgefragt (brauchen 	deswegen Getter)&#xD;&#xA;">
+    <Position X="6.573" Y="12.885" Height="1.333" Width="2.721" />
+  </Comment>
+  <Comment CommentText="deklariere Starte als Virutell &#xD;&#xA;überschreibe Start in Düsenflugzeug (damit 	WriteHeader gerufen wird, falls An = true)&#xD;&#xA; ">
+    <Position X="2.802" Y="10.49" Height="1.385" Width="3.127" />
+  </Comment>
+  <Class Name="ESA_Projekt.Luftfahrzeug">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAIAAAAAAAAAAAAAAIAAAAAAAAAAAABAAAAAAQA=</HashCode>
+      <FileName>Luftfahrzeug.cs</FileName>
+      <NewMemberFileName>LuftFahrzeug.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESA_Projekt.Flugzeug">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAwAAIAACAAAAAAAAAABAAAAAAAAAAAEgBIAAAAAAA=</HashCode>
+      <FileName>Flugzeug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESA_Projekt.Starrflügelflugzeug">
+    <Position X="0.5" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAEAAgAAAAAAAAAAAABAAAAAgAQAwAQEBAAA=</HashCode>
+      <FileName>Starrflügelflugzeug.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.356" />
+  </Class>
+  <Class Name="ESA_Projekt.Düsenflugzeug">
+    <Position X="0.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAAEAAGAAiAAACAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Düsenflugzeug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESA_Projekt.Program">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAAAIAAAAgAAAAAAAAAAAAgAAQAAIABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ESA_Projekt.Position">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAQABgAAAAAAA=</HashCode>
+      <FileName>Position.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ESA_Projekt.ITranspond">
+    <Position X="3.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITranspond.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ESA_Projekt.Airbus">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAwMAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Airbus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="ESA_Projekt.TransponderDel">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>TransponderDel.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="ESA_Projekt.FliegerRegisterDel">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FliegerRegisterDel.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

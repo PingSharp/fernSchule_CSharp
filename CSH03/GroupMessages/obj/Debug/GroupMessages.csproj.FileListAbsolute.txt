@@ -1,0 +1,6 @@
+D:\Dokumente\Ping\hotels\CSH03\GroupMessages\bin\Debug\GroupMessages.exe.config
+D:\Dokumente\Ping\hotels\CSH03\GroupMessages\obj\Debug\GroupMessages.csprojResolveAssemblyReference.cache
+D:\Dokumente\Ping\hotels\CSH03\GroupMessages\bin\Debug\GroupMessages.exe
+D:\Dokumente\Ping\hotels\CSH03\GroupMessages\bin\Debug\GroupMessages.pdb
+D:\Dokumente\Ping\hotels\CSH03\GroupMessages\obj\Debug\GroupMessages.exe
+D:\Dokumente\Ping\hotels\CSH03\GroupMessages\obj\Debug\GroupMessages.pdb

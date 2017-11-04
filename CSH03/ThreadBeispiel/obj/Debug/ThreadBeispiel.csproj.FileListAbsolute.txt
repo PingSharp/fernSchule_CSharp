@@ -1,0 +1,6 @@
+D:\Dokumente\Ping\hotels\CSH03\ThreadBeispiel\bin\Debug\ThreadBeispiel.exe.config
+D:\Dokumente\Ping\hotels\CSH03\ThreadBeispiel\bin\Debug\ThreadBeispiel.exe
+D:\Dokumente\Ping\hotels\CSH03\ThreadBeispiel\bin\Debug\ThreadBeispiel.pdb
+D:\Dokumente\Ping\hotels\CSH03\ThreadBeispiel\obj\Debug\ThreadBeispiel.csprojResolveAssemblyReference.cache
+D:\Dokumente\Ping\hotels\CSH03\ThreadBeispiel\obj\Debug\ThreadBeispiel.exe
+D:\Dokumente\Ping\hotels\CSH03\ThreadBeispiel\obj\Debug\ThreadBeispiel.pdb

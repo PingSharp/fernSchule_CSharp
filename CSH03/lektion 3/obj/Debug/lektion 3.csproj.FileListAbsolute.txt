@@ -1,0 +1,6 @@
+D:\Dokumente\Ping\hotels\CSH03\lektion 3\bin\Debug\lektion 3.exe.config
+D:\Dokumente\Ping\hotels\CSH03\lektion 3\bin\Debug\lektion 3.exe
+D:\Dokumente\Ping\hotels\CSH03\lektion 3\bin\Debug\lektion 3.pdb
+D:\Dokumente\Ping\hotels\CSH03\lektion 3\obj\Debug\lektion 3.exe
+D:\Dokumente\Ping\hotels\CSH03\lektion 3\obj\Debug\lektion 3.pdb
+D:\Dokumente\Ping\hotels\CSH03\lektion 3\obj\Debug\lektion 3.csprojResolveAssemblyReference.cache

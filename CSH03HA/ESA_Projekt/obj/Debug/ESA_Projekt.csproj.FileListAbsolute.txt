@@ -1,0 +1,12 @@
+c:\users\kahr_zang\documents\visual studio 2015\Projects\CSH03HA\ESA_Projekt\bin\Debug\ESA_Projekt.exe.config
+c:\users\kahr_zang\documents\visual studio 2015\Projects\CSH03HA\ESA_Projekt\bin\Debug\ESA_Projekt.exe
+c:\users\kahr_zang\documents\visual studio 2015\Projects\CSH03HA\ESA_Projekt\bin\Debug\ESA_Projekt.pdb
+c:\users\kahr_zang\documents\visual studio 2015\Projects\CSH03HA\ESA_Projekt\obj\Debug\ESA_Projekt.exe
+c:\users\kahr_zang\documents\visual studio 2015\Projects\CSH03HA\ESA_Projekt\obj\Debug\ESA_Projekt.pdb
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH03HA\ESA_Projekt\obj\Debug\ESA_Projekt.csprojResolveAssemblyReference.cache
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH03HA\ESA_Projekt\bin\Debug\ESA_Projekt.exe.config
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH03HA\ESA_Projekt\obj\Debug\ESA_Projekt.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH03HA\ESA_Projekt\obj\Debug\ESA_Projekt.pdb
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH03HA\ESA_Projekt\bin\Debug\ESA_Projekt.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH03HA\ESA_Projekt\bin\Debug\ESA_Projekt.pdb
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH03HA\ESA_Projekt\obj\Debug\ESA_Projekt.csprojResolveAssemblyReference.cache
