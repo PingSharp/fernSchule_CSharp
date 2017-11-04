@@ -1,0 +1,9 @@
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_2\bin\Debug\Lektion2_2.exe.config
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_2\bin\Debug\Lektion2_2.exe
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_2\bin\Debug\Lektion2_2.pdb
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_2\obj\Debug\Lektion2_2.csprojResolveAssemblyReference.cache
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_2\obj\Debug\Lektion2_2.Form1.resources
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_2\obj\Debug\Lektion2_2.Properties.Resources.resources
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_2\obj\Debug\Lektion2_2.csproj.GenerateResource.Cache
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_2\obj\Debug\Lektion2_2.exe
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_2\obj\Debug\Lektion2_2.pdb

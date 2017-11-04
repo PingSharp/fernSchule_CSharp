@@ -1,0 +1,10 @@
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\bin\Debug\Lektion2_1.exe.config
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\bin\Debug\Lektion2_1.exe
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\bin\Debug\Lektion2_1.pdb
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\bin\Debug\MySql.Data.dll
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\obj\Debug\Lektion2_1.csprojResolveAssemblyReference.cache
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\obj\Debug\Lektion2_1.MySqlAbfrage.resources
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\obj\Debug\Lektion2_1.Properties.Resources.resources
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\obj\Debug\Lektion2_1.csproj.GenerateResource.Cache
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\obj\Debug\Lektion2_1.exe
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion2_1\obj\Debug\Lektion2_1.pdb

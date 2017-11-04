@@ -1,0 +1,8 @@
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\bin\Debug\Lektion4_2.exe.config
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\bin\Debug\Lektion4_2.exe
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\bin\Debug\Lektion4_2.pdb
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\obj\Debug\Lektion4_2.Form1.resources
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\obj\Debug\Lektion4_2.Properties.Resources.resources
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\obj\Debug\Lektion4_2.csproj.GenerateResource.Cache
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\obj\Debug\Lektion4_2.exe
+C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\obj\Debug\Lektion4_2.pdb
