@@ -1,0 +1,15 @@
+C:\Users\Kahr_Zang\documents\visual studio 2015\Projects\CSH04\lek2\bin\Debug\lek2.exe.config
+C:\Users\Kahr_Zang\documents\visual studio 2015\Projects\CSH04\lek2\obj\Debug\lek2.exe
+C:\Users\Kahr_Zang\documents\visual studio 2015\Projects\CSH04\lek2\obj\Debug\lek2.pdb
+C:\Users\Kahr_Zang\documents\visual studio 2015\Projects\CSH04\lek2\bin\Debug\lek2.exe
+C:\Users\Kahr_Zang\documents\visual studio 2015\Projects\CSH04\lek2\bin\Debug\lek2.pdb
+C:\Users\Kahr_Zang\documents\visual studio 2015\Projects\CSH04\lek2\obj\Debug\lek2.csprojResolveAssemblyReference.cache
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\CSH04\lek2\bin\Debug\lek2.exe.config
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\CSH04\lek2\obj\Debug\lek2.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\CSH04\lek2\obj\Debug\lek2.pdb
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\lek2\bin\Debug\lek2.exe.config
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\lek2\obj\Debug\lek2.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\lek2\obj\Debug\lek2.pdb
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\lek2\bin\Debug\lek2.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\lek2\bin\Debug\lek2.pdb
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\lek2\obj\Debug\lek2.csprojResolveAssemblyReference.cache

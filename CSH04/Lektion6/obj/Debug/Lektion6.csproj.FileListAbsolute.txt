@@ -1,0 +1,14 @@
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\bin\Debug\Lektion6.exe.config
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\bin\Debug\Lektion6.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\bin\Debug\Lektion6.pdb
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\Lektion6.csprojResolveAssemblyReference.cache
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\MainWindow.g.cs
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\App.g.cs
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\Lektion6_MarkupCompile.cache
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\Lektion6_MarkupCompile.lref
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\MainWindow.baml
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\Lektion6.g.resources
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\Lektion6.Properties.Resources.resources
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\Lektion6.csproj.GenerateResource.Cache
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\Lektion6.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Lektion6\obj\Debug\Lektion6.pdb

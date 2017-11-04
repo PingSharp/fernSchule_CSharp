@@ -1,0 +1,6 @@
+obst
+apfel
+banana
+kiwi
+mango
+kirsche

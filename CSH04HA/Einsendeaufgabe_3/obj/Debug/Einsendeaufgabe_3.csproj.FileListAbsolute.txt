@@ -1,0 +1,6 @@
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Einsendeaufgabe_3\bin\Debug\Einsendeaufgabe_3.exe.config
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Einsendeaufgabe_3\bin\Debug\Einsendeaufgabe_3.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Einsendeaufgabe_3\bin\Debug\Einsendeaufgabe_3.pdb
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Einsendeaufgabe_3\obj\Debug\Einsendeaufgabe_3.csprojResolveAssemblyReference.cache
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Einsendeaufgabe_3\obj\Debug\Einsendeaufgabe_3.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Einsendeaufgabe_3\obj\Debug\Einsendeaufgabe_3.pdb

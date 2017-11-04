@@ -1,0 +1,3 @@
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Wpf3d\bin\Debug\Wpf3d.exe.config
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Wpf3d\obj\Debug\Wpf3d.exe
+E:\EigeneDaten\Documents\Visual Studio 2015\Projects\School\CSH04\Wpf3d\obj\Debug\Wpf3d.pdb
