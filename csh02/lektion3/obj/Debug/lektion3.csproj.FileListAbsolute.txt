@@ -1,0 +1,6 @@
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\lektion3\bin\Debug\lektion3.exe.config
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\lektion3\bin\Debug\lektion3.exe
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\lektion3\bin\Debug\lektion3.pdb
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\lektion3\obj\Debug\lektion3.csprojResolveAssemblyReference.cache
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\lektion3\obj\Debug\lektion3.exe
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\lektion3\obj\Debug\lektion3.pdb

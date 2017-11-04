@@ -1,0 +1,6 @@
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\hausaufgabe5\bin\Debug\hausaufgabe5.exe.config
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\hausaufgabe5\bin\Debug\hausaufgabe5.exe
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\hausaufgabe5\bin\Debug\hausaufgabe5.pdb
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\hausaufgabe5\obj\Debug\hausaufgabe5.csprojResolveAssemblyReference.cache
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\hausaufgabe5\obj\Debug\hausaufgabe5.exe
+D:\Dokumente\Ping\fernstudium\CHRKAHR\csh02\hausaufgabe5\obj\Debug\hausaufgabe5.pdb
