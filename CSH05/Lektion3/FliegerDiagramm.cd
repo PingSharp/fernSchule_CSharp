@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lektion3.Program">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lektion3.Luftfahrzeug">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAQQA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lektion3.Flugzeug">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAkAAAAACAAEAAAAAAAAAAAAAAAAAAAEAAIAAAAQAA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lektion3.Starrfluegelflugzeug">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAgAAAAAAQAAAAABAAABAgAQAwAQEBAAA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lektion3.Duesenflugzeug">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAACAgAAAAAAAAAAAIAAAAAAAABAAA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lektion3.Fliegerprojekt">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAQAAAAAgAAAAAAAAAAAAAAAQAAIABAAAAAA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Lektion3.Position" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAQABgAAAAAAA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Lektion3.ITransponder">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Lektion3.Airbus" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAwMAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Lektion3.TransponderDel">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Lektion3.FliegerregisterDel">
+    <Position X="3.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fliegerprojekt.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

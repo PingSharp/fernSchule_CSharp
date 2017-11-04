@@ -1,0 +1,11 @@
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\obj\Debug\Lektion3.Konfigurationsdialog.resources
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\obj\Debug\Lektion3.csproj.GenerateResource.Cache
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\bin\Debug\Lektion3.exe.config
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\bin\Debug\Lektion3.exe
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\bin\Debug\Lektion3.pdb
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\obj\Debug\Lektion3.exe
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\obj\Debug\Lektion3.pdb
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\bin\Debug\Db4objects.Db4o.dll
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\bin\Debug\Db4objects.Db4o.xml
+e:\eigenedaten\documents\visual studio 2017\Projects\CSH05\Lektion3\obj\Debug\Lektion3.Flugauswahldialog.resources
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\CSH05\Lektion3\obj\Debug\Lektion3.csprojResolveAssemblyReference.cache
