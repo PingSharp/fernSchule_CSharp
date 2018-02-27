@@ -1,0 +1,7 @@
+C:\Users\Kahr_Zang\source\repos\CSH09\ESA\bin\Debug\ESA.exe.config
+C:\Users\Kahr_Zang\source\repos\CSH09\ESA\bin\Debug\ESA.exe
+C:\Users\Kahr_Zang\source\repos\CSH09\ESA\bin\Debug\ESA.pdb
+C:\Users\Kahr_Zang\source\repos\CSH09\ESA\obj\Debug\ESA.csprojResolveAssemblyReference.cache
+C:\Users\Kahr_Zang\source\repos\CSH09\ESA\obj\Debug\ESA.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH09\ESA\obj\Debug\ESA.exe
+C:\Users\Kahr_Zang\source\repos\CSH09\ESA\obj\Debug\ESA.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<kartei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <karte sachgebiet="XML">
+    <stichwort>Element</stichwort>
+    <autor>Michael Siebert</autor>
+    <erstelldatum>08.05.2009</erstelldatum>
+    <aenderungsdatum>09.05.2009</aenderungsdatum>
+    <beschreibung>&lt;element&gt;Start-Tag-Inhalt-End-Tag&lt;/element&gt;</beschreibung>
+  </karte>
+  <karte sachgebiet="XML">
+    <stichwort>Entity</stichwort>
+    <erstelldatum>08.05.2009</erstelldatum>
+    <beschreibung>&lt;!Entity entity-name "entity-text"&gt;</beschreibung>
+    <beschreibung>Eine Entity wird durch eine Entity-Referenz angesprochen</beschreibung>
+  </karte>
+  <karte sachgebiet="XML">
+    <referenz>XML 1.0 Ziffer 4.5</referenz>
+    <aenderungsdatum>2017-11-23</aenderungsdatum>
+    <liste>&lt;!ENTITY lt "&amp;#38;#60;"&gt;</liste>
+    <liste>&lt;!ENTITY gt "&amp;#62;"&gt;</liste>
+    <liste>&lt;!ENTITY amp"&amp;#38;#38;"&gt;</liste>
+    <liste>&lt;!ENTITY apos"&amp;#39;"&gt;</liste>
+    <liste>&lt;!ENTITY quot"&amp;#34;"&gt;</liste>
+    <beschreibung>Das war eine Liste</beschreibung>
+  </karte>
+  <karte sachgebiet="Word">
+    <stichwort>Dokumentenschutz</stichwort>
+    <referenz>Extras - Dokument schützen ... Arbeitsbereich</referenz>
+    <liste>Word 97</liste>
+    <liste>Word 2000 ff</liste>
+    <beschreibung>Ein Dokument kann mit einem Passwort geschützt werden</beschreibung>
+  </karte>
+</kartei>

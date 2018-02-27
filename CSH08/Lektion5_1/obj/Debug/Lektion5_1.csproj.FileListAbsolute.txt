@@ -1,0 +1,7 @@
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5_1\bin\Debug\Lektion5_1.dll
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5_1\bin\Debug\Lektion5_1.pdb
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5_1\obj\Debug\Lektion5_1.csprojResolveAssemblyReference.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5_1\obj\Debug\Lektion5_1.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5_1\obj\Debug\Lektion5_1.dll
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5_1\obj\Debug\Lektion5_1.pdb
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5_1\bin\Debug\Lektion5_1.xml

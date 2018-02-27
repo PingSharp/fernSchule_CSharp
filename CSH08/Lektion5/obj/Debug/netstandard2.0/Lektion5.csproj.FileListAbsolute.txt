@@ -1,0 +1,9 @@
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\bin\Debug\netstandard2.0\Lektion5.deps.json
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\bin\Debug\netstandard2.0\Lektion5.dll
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\bin\Debug\netstandard2.0\Lektion5.pdb
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.csprojResolveAssemblyReference.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.AssemblyInfoInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.AssemblyInfo.cs
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.dll
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.pdb

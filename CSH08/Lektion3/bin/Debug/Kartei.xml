@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!--XML-Knoten-->
+ <!DOCTYPE kartei PUBLIC "Kartei.dtd" "Kartei.dtd"> 
+ <!-- <!DOCTYPE kartei SYSTEM "Kartei.dtd"> -->
+<!-- <!DOCTYPE Kartei [<!ENTITY autor "Michael Siebert">
+]> -->
+<kartei>
+  <karte sachgebiet="XML">
+    <stichwort>
+      XML-Element
+    </stichwort>
+    <abstract>
+      <![CDATA[<name>Start-Tag - Inhalt - End-Tag</name>]]>
+    </abstract>
+    <autor>&autor;</autor>
+  </karte>
+</kartei>

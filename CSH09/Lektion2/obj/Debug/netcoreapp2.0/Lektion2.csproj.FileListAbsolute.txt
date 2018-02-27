@@ -1,0 +1,11 @@
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\bin\Debug\netcoreapp2.0\Lektion2.deps.json
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\bin\Debug\netcoreapp2.0\Lektion2.runtimeconfig.json
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\bin\Debug\netcoreapp2.0\Lektion2.runtimeconfig.dev.json
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\bin\Debug\netcoreapp2.0\Lektion2.dll
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\bin\Debug\netcoreapp2.0\Lektion2.pdb
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\obj\Debug\netcoreapp2.0\Lektion2.csprojResolveAssemblyReference.cache
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\obj\Debug\netcoreapp2.0\Lektion2.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\obj\Debug\netcoreapp2.0\Lektion2.AssemblyInfoInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\obj\Debug\netcoreapp2.0\Lektion2.AssemblyInfo.cs
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\obj\Debug\netcoreapp2.0\Lektion2.dll
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2\obj\Debug\netcoreapp2.0\Lektion2.pdb

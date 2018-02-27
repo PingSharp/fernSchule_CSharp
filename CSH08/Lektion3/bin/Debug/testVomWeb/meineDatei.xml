@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE text-mit-baustein SYSTEM "text-mit-baustein.dtd">
+<!ENTITY mfg "mit freundlichen Gr&#252;&#223;en" >
+<text-mit-baustein>
+ich verbleibe &mfg;
+</text-mit-baustein>

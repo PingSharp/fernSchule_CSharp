@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!--XML-Knoten-->
+<!DOCTYPE kartei[
+  <!ENTITY autor "Michael Siebert">
+]>
+<kartei>
+  <karte sachgebiet="XML">
+    <stichwort>
+      XML-Element
+    </stichwort>
+    <abstract>
+      <![CDATA[<name>Start-Tag - Inhalt - End-Tag</name>]]>
+    </abstract>
+    <autor>Michael Siebert</autor>
+  </karte>
+</kartei>

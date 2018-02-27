@@ -1,0 +1,6 @@
+C:\Users\Kahr_Zang\source\repos\CSH08\HAClassLib\bin\Debug\HAClassLib.xml
+C:\Users\Kahr_Zang\source\repos\CSH08\HAClassLib\bin\Debug\HAClassLib.dll
+C:\Users\Kahr_Zang\source\repos\CSH08\HAClassLib\bin\Debug\HAClassLib.pdb
+C:\Users\Kahr_Zang\source\repos\CSH08\HAClassLib\obj\Debug\HAClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\HAClassLib\obj\Debug\HAClassLib.dll
+C:\Users\Kahr_Zang\source\repos\CSH08\HAClassLib\obj\Debug\HAClassLib.pdb

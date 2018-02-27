@@ -1,0 +1,9 @@
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\bin\Release\Lektion4_1.exe.config
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\bin\Release\Lektion4_1.exe
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\bin\Release\Lektion4_1.pdb
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Release\Lektion4_1.Form1.resources
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Release\Lektion4_1.Properties.Resources.resources
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Release\Lektion4_1.csproj.GenerateResource.Cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Release\Lektion4_1.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Release\Lektion4_1.exe
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Release\Lektion4_1.pdb

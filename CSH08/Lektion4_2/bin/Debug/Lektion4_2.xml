@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lektion4_2</name>
+    </assembly>
+    <members>
+        <member name="T:Lektion4_2.XmlDatenForm">
+            <summary>
+            Die Klasse zur Beschreibung der XML GUI
+            </summary>
+        </member>
+        <member name="M:Lektion4_2.XmlDatenForm.#ctor">
+            <summary>
+            Das ist der Konstruktor der XMLDatenform.
+            Hier werden die Komponenten initialisiert.
+            </summary>
+        </member>
+        <member name="M:Lektion4_2.XmlDatenForm.FormatTables">
+            <summary>
+            Diese Methode dient der Formatierung der Tabelle im Zentrum der GUI, welche die Zeilen in den Tabellen des Datensatzes anzeigt. 
+            Dabei werden Spaltennamen der GUI-Tabelle, Weite und ihren korrespondierenen Columnnames, im table object des XML dataset objects, berücksichtigt.
+            </summary>
+            <example>
+            Die Formatierung / Style der Tabelle wird über 
+            <code>
+            DataGridTableStyle tabstylekarte = new DataGridTableStyle();
+            </code>
+            erzeugt.
+            Spalte 1 bekommt die Standardwerte :
+            <code>
+            DataGridTextBoxColumn dgtcol1 = new DataGridTextBoxColumn();
+            dgtcol1.MappingName = "stichwort";
+            dgtcol1.HeaderText = "Stichwort";
+            dgtcol1.Width = 160;
+            </code>
+            und wird über 
+            <code>
+            tabstylekarte.GridColumnStyles.Add(dgtcol1);
+            </code>
+            mit dem Style verküpft.
+            Das Binding zwischen GUI Tabelle und Datensatztabelle passiert über
+            <code>
+            string datamember = dataSet.Tables[0].TableName;
+            DataGridTableStyle tabstylekarte = new DataGridTableStyle();
+            tabstylekarte.MappingName = datamember;
+            </code>
+            </example>
+        </member>
+        <member name="M:Lektion4_2.XmlDatenForm.AddDefaultAttributes">
+             <summary>
+             In dieser Methode werden die Änderungen des XML Dokumentes geprüft und je nach dem die Attribute aenderungsdatum bzw. erstelldatum hinzugefügt.
+             Zu erst wird über <code>dataSet.HasChanges(DataRowState.Added)</code> und <code>dataSet.HasChanges(DataRowState.Modified)</code> bestimmt, ob 
+             was geändert wurde und über die Konsole ausgegeben. 
+             Anschließend wird über <code>dataSet.GetChanges()</code> ein Objekt erzeugt, welches die Änderungen beinhaltet. 
+             <para >
+             Über 
+             <code>
+                 if(dschanged != null)
+             </code>
+             wird abgefragt, ob Änderungen vorhanden sind. Falls keine vorhanden sind, wird hier bereits ein false zurückgegeben und nichts weiter gemacht.
+             Sowas kann beispielsweise folgendermaßen passieren : 
+             <code>
+             DataTable table = new DataTable();
+             table.Columns.Add("column_1");
+             table.Columns.Add("column_2");
+             table.Rows.Add("1",1);
+             table.Rows.Add("2",2);
+             DataSet a = new DataSet();
+             a.Tables.Add(table);
+             a.AcceptChanges();
+             DataSet diff_a = a.GetChanges();
+             </code>
+             </para>
+             Falls Änderungen existieren, wird über alle geänderten Zeilen mittels <code>foreach (DataRow row in karteTable.Rows)</code> iteriert. 
+             Jede Zeile wird dabei auf ihre Version geprüft. 
+             <para>
+             Ein true bei 
+             <code>
+             if(row.HasVersion(DataRowVersion.Original))
+             </code>
+             zeigt an, dass eine Originalversion vorhanden ist, also eine Änderung am Original gemacht wurde. 
+             Ein false könnte bei folgendem Fall auftreten : 
+             <code>
+             DataTable table = new DataTable("table_1");
+             table.Columns.Add("column_1");
+             table.Columns.Add("column_2");
+             table.Rows.Add("1",1);
+             DataSet a = new DataSet();
+             a.Tables.Add(table);
+             a.AcceptChanges();
+             table.Rows.Add("2",2);
+             DataSet diff_a = a.GetChanges();
+             bool willBeFalse = diff_a.Tables["table_1"].Rows[0].HasVersion(DataRowVersion.Original);
+            </code>
+             Nach der Versionsabfrage wird nun über 
+             <code>
+             if (row.RowState == DataRowState.Deleted)
+             </code>
+             geprüft, ob das Original gelöscht oder geändert wurde. Falls nicht gelöscht, muss es geändert worden sein. 
+             Ein Beispiel hierfür : 
+             <code>
+             DataTable table = new DataTable("table_1");
+             table.Columns.Add("column_1");
+             table.Columns.Add("column_2");
+             table.Rows.Add("1",1);
+             DataSet a = new DataSet();
+             a.Tables.Add(table);
+             a.AcceptChanges();
+             a.Tables["table_1"].Select("column_1 = '1'").First()["column_2"] = 2;
+             DataSet diff_a = a.GetChanges();
+             var firstChangedRow = diff_a.Tables["table_1"].Rows[0];
+             var stateIsModified = firstChangedRow.RowState;
+             a.Tables["table_1"].Select("column_1 = '1'").First().Delete();
+             diff_a = a.GetChanges();
+             firstChangedRow = diff_a.Tables["table_1"].Rows[0];
+             var stateIsDeleted = firstChangedRow.RowState;
+             </code>
+             </para>
+             Bei einer aenderung wird der row noch mittels <code> row["aenderungsdatum"] = DateTime.Now.ToString("yyyy-MM-dd");</code> ein Zeitstempel hinzugefügt
+             Bei einem Hinzufügen passiert das mittels <code>row["erstelldatum"] = DateTime.Now.ToString("yyyy-MM-dd");</code>
+             </summary>
+             <returns>Erfolgreich oder nicht</returns>
+        </member>
+        <member name="T:Lektion4_2.XmlDatenForm.Ausgabehilfen">
+            <summary>
+            Eine Klasse zur Unterstützung der Zeilenausgaben in einem Set.
+            </summary>
+        </member>
+        <member name="M:Lektion4_2.XmlDatenForm.Ausgabehilfen.#ctor">
+            <summary>
+            der Default Konstruktor
+            </summary>
+        </member>
+        <member name="M:Lektion4_2.XmlDatenForm.Ausgabehilfen.DataRowAusgabe(System.Data.DataRow)">
+            <summary>
+            baut einen string der alle Spaltennamen  und dazugehörigen Werte einer spezifischen Zeile / row in der Tabelle eines Datensatzes enthält  
+            <para> Wird u.a. in der Methode 
+            <see cref="M:Lektion4_2.XmlDatenForm.Ausgabehilfen.DataSetAusgabe(System.Data.DataSet)" />
+            genutzt, in der ein Datensatz in seine Tabellen und Zeilen aufgesplittet wird. Die Methode DatenRowAusgabe wird für jede Zeile in jeder Tabelle eines Datensatzes gerufen.
+            </para>
+            </summary>
+            <param name="row">Zeile einer Datensatztabelle</param>
+            <returns>String der alle Spaltennamen und Werte einer Zeile enthält</returns>
+        </member>
+        <member name="M:Lektion4_2.XmlDatenForm.Ausgabehilfen.DataSetAusgabe(System.Data.DataSet)">
+            <summary>
+            Gibt alle Spaltennamen und Werte einer jeden Zeile einer jeden Tabelle eines Datensatzes auf der Konsole aus. 
+            <para>DataSetAusgabe nutzt dabei die Methode
+            <see cref="M:Lektion4_2.XmlDatenForm.Ausgabehilfen.DataRowAusgabe(System.Data.DataRow)" />
+            in welcher die Spaltennamen und Werte einer Zeile erfasst werden und aus ihnen ein string konstruiert wird, der ausgegeben wird. 
+            </para>
+            </summary>
+            <param name="ds">ein spezifischer Datensatz, dessen Zeilen über Spalten ausgegeben werden soll</param>
+        </member>
+        <member name="F:Lektion4_2.XmlDatenForm.components">
+            <summary>
+            Erforderliche Designervariable.
+            </summary>
+        </member>
+        <member name="M:Lektion4_2.XmlDatenForm.Dispose(System.Boolean)">
+            <summary>
+            Verwendete Ressourcen bereinigen.
+            </summary>
+            <param name="disposing">True, wenn verwaltete Ressourcen gelöscht werden sollen; andernfalls False.</param>
+        </member>
+        <member name="M:Lektion4_2.XmlDatenForm.InitializeComponent">
+            <summary>
+            Erforderliche Methode für die Designerunterstützung.
+            Der Inhalt der Methode darf nicht mit dem Code-Editor geändert werden.
+            </summary>
+        </member>
+        <member name="M:Lektion4_2.Program.Main">
+            <summary>
+            Der Haupteinstiegspunkt für die Anwendung.
+            </summary>
+        </member>
+        <member name="T:Lektion4_2.Properties.Resources">
+            <summary>
+              Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+            </summary>
+        </member>
+        <member name="P:Lektion4_2.Properties.Resources.ResourceManager">
+            <summary>
+              Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+            </summary>
+        </member>
+        <member name="P:Lektion4_2.Properties.Resources.Culture">
+            <summary>
+              Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+              Ressourcenlookups, die diese stark typisierte Ressourcenklasse verwenden.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,10 @@
+<!--DTD zum XML-Dokument “kartei.xml“-->
+<!ENTITY autor "micheal siebert">
+<!ELEMENT kartei (karte+)>
+<!ELEMENT karte (stichwort,abstract,autor)>
+<!ELEMENT abstract (name)>
+<!ELEMENT stichwort (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ATTLIST karte sachgebiet CDATA #REQUIRED>
+

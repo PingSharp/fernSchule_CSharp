@@ -1,0 +1,11 @@
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\bin\Debug\Lektion4_2.exe.config
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\bin\Debug\Lektion4_2.exe
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\bin\Debug\Lektion4_2.pdb
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\obj\Debug\Lektion4_2.XmlDatenForm.resources
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\obj\Debug\Lektion4_2.Properties.Resources.resources
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\obj\Debug\Lektion4_2.csproj.GenerateResource.Cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\obj\Debug\Lektion4_2.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\obj\Debug\Lektion4_2.exe
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\obj\Debug\Lektion4_2.pdb
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\bin\Debug\Lektion4_2.xml
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_2\obj\Debug\Lektion4_2.csprojResolveAssemblyReference.cache

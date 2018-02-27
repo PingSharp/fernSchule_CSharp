@@ -5,3 +5,6 @@ c:\users\kahr_zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_1\obj\De
 c:\users\kahr_zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_1\obj\Debug\Lektion1_1.exe
 c:\users\kahr_zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_1\obj\Debug\Lektion1_1.pdb
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_1\bin\Debug\MySql.Data.dll
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\bin\Debug\Lektion1_1.exe.config
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\obj\Debug\Lektion1_1.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\obj\Debug\Lektion1_1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2_hausaufgabe1\bin\Debug\Lektion2_hausaufgabe1.exe.config
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2_hausaufgabe1\bin\Debug\Lektion2_hausaufgabe1.exe
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2_hausaufgabe1\bin\Debug\Lektion2_hausaufgabe1.pdb
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2_hausaufgabe1\obj\Debug\Lektion2_hausaufgabe1.csprojResolveAssemblyReference.cache
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2_hausaufgabe1\obj\Debug\Lektion2_hausaufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2_hausaufgabe1\obj\Debug\Lektion2_hausaufgabe1.exe
+C:\Users\Kahr_Zang\source\repos\CSH09\Lektion2_hausaufgabe1\obj\Debug\Lektion2_hausaufgabe1.pdb

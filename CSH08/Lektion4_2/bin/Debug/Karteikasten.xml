@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!--XML-Datei für CSH08,Lektion4-->
+<kartei>
+  <karte sachgebiet="XML">
+    <stichwort>Element</stichwort>
+    <beschreibung><![CDATA[<element>Start-Tag-Inhalt-End-Tag</element>]]></beschreibung>
+    <autor>Michael Siebert</autor>
+    <erstelldatum>08.05.2009</erstelldatum>
+    <aenderungsdatum>09.05.2009</aenderungsdatum>
+  </karte>
+  <karte sachgebiet="XML">
+    <stichwort>Entity</stichwort>
+    <beschreibung>&lt;!Entity entity-name "entity-text"&gt;</beschreibung>
+    <beschreibung>Eine Entity wird durch eine Entity-Referenz angesprochen</beschreibung>
+    <erstelldatum>08.05.2009</erstelldatum>
+  </karte>
+  <karte sachgebiet="XML">
+    <liste><![CDATA[<!ENTITY lt "&#38;#60;">]]></liste>
+    <liste><![CDATA[<!ENTITY gt "&#62;">]]></liste>
+    <liste><![CDATA[<!ENTITY amp"&#38;#38;">]]></liste>
+    <liste><![CDATA[<!ENTITY apos"&#39;">]]></liste>
+    <liste><![CDATA[<!ENTITY quot"&#34;">]]></liste>
+    <beschreibung>Das war eine Liste</beschreibung>
+    <referenz>XML 1.0 Ziffer 4.6</referenz>
+  </karte>
+  <karte sachgebiet="Word">
+    <stichwort>Dokumentenschutz</stichwort>
+    <referenz>Extras - Dokument schützen ... Arbeitsbereich</referenz>
+    <beschreibung>Ein Dokument kann mit einem Passwort geschützt werden</beschreibung>
+    <liste>Word 97</liste>
+    <liste>Word 2000 ff</liste>
+  </karte>
+</kartei>

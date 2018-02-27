@@ -1,0 +1,2 @@
+<!ELEMENT text-mit-baustein (#PCDATA)>
+<!ENTITY mfg "mit freundlichen Gr&#252;&#223;en" >

@@ -1,0 +1,7 @@
+c:\users\kahr_zang\source\repos\CSH09\Lektion1\bin\x64\Debug\Lektion1.exe.config
+c:\users\kahr_zang\source\repos\CSH09\Lektion1\bin\x64\Debug\Lektion1.exe
+c:\users\kahr_zang\source\repos\CSH09\Lektion1\bin\x64\Debug\Lektion1.pdb
+c:\users\kahr_zang\source\repos\CSH09\Lektion1\obj\x64\Debug\Lektion1.csproj.CoreCompileInputs.cache
+c:\users\kahr_zang\source\repos\CSH09\Lektion1\obj\x64\Debug\Lektion1.exe
+c:\users\kahr_zang\source\repos\CSH09\Lektion1\obj\x64\Debug\Lektion1.pdb
+c:\users\kahr_zang\source\repos\CSH09\Lektion1\obj\x64\Debug\Lektion1.csprojResolveAssemblyReference.cache

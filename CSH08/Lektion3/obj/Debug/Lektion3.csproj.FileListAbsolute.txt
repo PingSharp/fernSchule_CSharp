@@ -1,0 +1,10 @@
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\bin\Debug\Lektion3.exe.config
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\bin\Debug\Lektion3.exe
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\bin\Debug\Lektion3.pdb
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\obj\Debug\Lektion3.csprojResolveAssemblyReference.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\obj\Debug\Lektion3.NavigationForm.resources
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\obj\Debug\Lektion3.Properties.Resources.resources
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\obj\Debug\Lektion3.csproj.GenerateResource.Cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\obj\Debug\Lektion3.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\obj\Debug\Lektion3.exe
+C:\Users\Kahr_Zang\source\repos\CSH08\Lektion3\obj\Debug\Lektion3.pdb

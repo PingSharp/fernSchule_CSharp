@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HAClassLib</name>
+    </assembly>
+    <members>
+        <!-- Ungültiger XML-Kommentar wurde für den Member "F:HAClassLib.WithoutChange.commentString" ignoriert -->
+        <!-- Ungültiger XML-Kommentar wurde für den Member "F:HAClassLib.AddedFields.commentString" ignoriert -->
+        <member name="F:HAClassLib.AddedFields.secondCommentString">
+            <summary>
+            BLABLA
+            </summary>
+        </member>
+        <member name="F:HAClassLib.AddedFields.thirdCommentString">
+            <summary>
+            blabla
+            </summary>
+        </member>
+        <member name="F:HAClassLib.AddedSeeAndSeealsoEnttags.commentString">
+            <summary>Ein beschreibender Text</summary>
+            Variante in der Kommentierung bei:
+            <see cref="F:HAClassLib.AddedSeeAndSeealsoEnttags.secondCommentString" />
+            Weitere Variante in der Kommentierung bei:
+            <seealso cref="F:HAClassLib.AddedSeeAndSeealsoEnttags.thirdCommentString" />
+        </member>
+        <member name="F:HAClassLib.AddedSeeAndSeealsoEnttags.secondCommentString">
+            <summary>
+            BLABLA
+            </summary>
+        </member>
+        <member name="F:HAClassLib.AddedSeeAndSeealsoEnttags.thirdCommentString">
+            <summary>
+            blabla
+            </summary>
+        </member>
+        <member name="F:HAClassLib.MovedSeeToPara.commentString">
+            <summary>
+            Ein beschreibender Text
+            <para>Variante in der Kommentierung bei:
+            <see cref="F:HAClassLib.MovedSeeToPara.secondCommentString" />
+            </para>
+            </summary>
+            Weitere Variante in der Kommentierung bei:
+            <seealso cref="F:HAClassLib.MovedSeeToPara.thirdCommentString" />
+        </member>
+        <member name="F:HAClassLib.MovedSeeToPara.secondCommentString">
+            <summary>
+            BLABLA
+            </summary>
+        </member>
+        <member name="F:HAClassLib.MovedSeeToPara.thirdCommentString">
+            <summary>
+            blabla
+            </summary>
+        </member>
+        <member name="T:HAClassLib.FinishedClass">
+            <summary>
+            This is class def for my homework
+            </summary>
+        </member>
+        <member name="F:HAClassLib.FinishedClass.commentString">
+            <summary>
+            Ein beschreibender Text
+            <para>Variante in der Kommentierung bei:
+            <see cref="F:HAClassLib.FinishedClass.secondCommentString" />
+            </para>
+            </summary>
+            <seealso cref="F:HAClassLib.FinishedClass.thirdCommentString" >Weitere Variante in der Kommentierung bei:</seealso> 
+        </member>
+        <member name="F:HAClassLib.FinishedClass.secondCommentString">
+            <summary>
+            BLABLA
+            </summary>
+        </member>
+        <member name="F:HAClassLib.FinishedClass.thirdCommentString">
+            <summary>
+            blabla
+            </summary>
+        </member>
+        <member name="M:HAClassLib.testHA.Compare(System.String,System.String)">
+            <summary>
+            Die Methode vergleicht zwei String und gibt nur
+            dann "true" zurück, wenn folgende Einschränkungen
+            erfüllt sind:
+            <code>
+            one.Equals(two) &amp;&amp; one.Length &lt; 10 &amp;&amp; two.Length &lt; 10
+            </code>
+            </summary>
+            <param name="one">erster String</param>
+            <param name="two">zweiter String</param>
+            <returns>true, wenn die beiden Strings gleich
+            und jeweils kürzer als 10 Zeichen sind
+            </returns>
+        </member>
+    </members>
+</doc>
