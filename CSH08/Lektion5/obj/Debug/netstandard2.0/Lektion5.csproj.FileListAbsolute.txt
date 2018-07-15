@@ -7,3 +7,13 @@ C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5
 C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.AssemblyInfo.cs
 C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.dll
 C:\Users\Kahr_Zang\source\repos\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\bin\Debug\netstandard2.0\Lektion5.xml
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\bin\Debug\netstandard2.0\Lektion5.deps.json
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\bin\Debug\netstandard2.0\Lektion5.dll
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\bin\Debug\netstandard2.0\Lektion5.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.csprojResolveAssemblyReference.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.csproj.CoreCompileInputs.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.AssemblyInfoInputs.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.AssemblyInfo.cs
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.dll
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion5\obj\Debug\netstandard2.0\Lektion5.pdb

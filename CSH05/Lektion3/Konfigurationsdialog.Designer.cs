@@ -270,9 +270,11 @@
             this.button3.TabIndex = 25;
             this.button3.Text = "Löschen";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
+            this.button4.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.button4.Location = new System.Drawing.Point(370, 313);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(55, 23);
@@ -282,6 +284,7 @@
             // 
             // button5
             // 
+            this.button5.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button5.Location = new System.Drawing.Point(156, 359);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(269, 23);

@@ -19,7 +19,7 @@ namespace Lektion3
             get { return flieger; }
         }
         private string dbName = "FliegerDB";
-        bool isConfigurationComplete;
+        internal bool isConfigurationComplete;
       
 
         private void SetEingabewerte()
@@ -37,6 +37,8 @@ namespace Lektion3
             textBoxSinkhoehe.Text = "300";
             textBox1AnzahlPlaetze.Text = "190";
         }
+        //Diese Methode wertet alle Eingabefelder im Konfigurationsdialog aus
+        //und speichert die dort vom benutzer eingetragenen Werte im Düsenflugzeug-Objekt.
         private void initializeFlieger()
         {
             flieger.Kennung = textBoxKennung.Text;
@@ -137,13 +139,17 @@ namespace Lektion3
 
         private void button2_Click(object sender, EventArgs e)
         {
-            IObjectContainer db = null;
+            IObjectContainer db = null;//Deklaration des Db-Arbeitsobjekt.
             bool updated = false;
             try
             {
-                db = Db4oFactory.OpenFile(dbName);
+                db = Db4oFactory.OpenFile("a");//Db-Arbeitsobjekt wird durch die OpenFile methode zugewiesen.
                 IList<Duesenflugzeug> fluege =
-                    db.Query<Duesenflugzeug>(delegate (Duesenflugzeug flieger)
+                    db.Query<Duesenflugzeug>(delegate (Duesenflugzeug flieger)//Die Methode Query verwendet in mehrfacher Hinsicht eine sehr spezielle
+                    //Syntax,die gibt eine Ilist mit Typ düsenflugzeug zurück,und die methode 
+                    //hat einen Predicate delegate als parameter ,Diese delegate hat eine anonyme Methode gespeichert,die methode nimmt düsenflugzeug 
+                    //objekt,und dann prüfen ob diese kennung schon existiert,
+                    //wenn ja,wird dieses düsenflugzeug object in der IList gespeichert. 
                     {
                         return flieger.Kennung == textBoxKennung.Text;
                     }
@@ -192,6 +198,50 @@ namespace Lektion3
         {
             Flugauswahldialog flugauswahl = new Flugauswahldialog();
             flugauswahl.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            IObjectContainer db = null;//Deklaration des Db-Arbeitsobjekt.
+            try
+            {
+
+                db = Db4oFactory.OpenFile("a");//Db-Arbeitsobjekt wird durch die OpenFile methode zugewiesen.
+                IList<Duesenflugzeug> fluege =
+                    db.Query<Duesenflugzeug>(delegate (Duesenflugzeug flieger)//Die Methode Query verwendet in mehrfacher Hinsicht eine sehr spezielle
+                    //Syntax,die gibt eine Ilist mit Typ düsenflugzeug zurück,und die methode 
+                    //hat einen Predicate delegate als parameter ,Diese delegate hat eine anonyme Methode gespeichert,die methode nimmt düsenflugzeug 
+                    //objekt,und dann prüfen ob diese kennung schon existiert,
+                    //wenn ja,wird dieses düsenflugzeug object in der IList gespeichert. 
+                    {
+                        return flieger.Kennung == textBoxKennung.Text;
+                    }
+                    );
+                if(fluege.Count > 0)
+                {
+                    flieger = fluege.First();
+                    db.Delete(flieger);
+                    Console.WriteLine("Flug {0} gelöscht ", flieger.Kennung);
+
+                }
+                else
+                {
+                    Console.WriteLine("Kein Flug mit der Kennung {0} in der Datenbank", textBoxKennung.Text);
+                }
+               
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.GetType() + ":" + ex.Message);
+
+            }
+            finally
+            {
+                if (db != null)
+                {
+                    db.Close();
+                }
+            }
         }
     }
 }

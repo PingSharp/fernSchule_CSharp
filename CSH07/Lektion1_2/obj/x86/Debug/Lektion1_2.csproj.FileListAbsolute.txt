@@ -1,0 +1,8 @@
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\bin\x86\Debug\AccessDemo.mdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\bin\x86\Debug\Lektion1_2.exe.config
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\bin\x86\Debug\Lektion1_2.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\bin\x86\Debug\Lektion1_2.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\obj\x86\Debug\Lektion1_2.csproj.CoreCompileInputs.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\obj\x86\Debug\Lektion1_2.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\obj\x86\Debug\Lektion1_2.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\obj\x86\Debug\Lektion1_2.csprojResolveAssemblyReference.cache

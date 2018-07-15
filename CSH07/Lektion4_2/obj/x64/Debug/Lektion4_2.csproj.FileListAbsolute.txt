@@ -7,3 +7,13 @@ C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\obj\x6
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.csproj.GenerateResource.Cache
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.exe
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\bin\x64\Debug\Lektion4_2.exe.config
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\bin\x64\Debug\Lektion4_2.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\bin\x64\Debug\Lektion4_2.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.csprojResolveAssemblyReference.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.Form1.resources
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.Properties.Resources.resources
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.csproj.GenerateResource.Cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.csproj.CoreCompileInputs.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion4_2\obj\x64\Debug\Lektion4_2.pdb

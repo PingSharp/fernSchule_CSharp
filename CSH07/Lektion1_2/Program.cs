@@ -17,9 +17,9 @@ namespace Lektion1_2
             private OleDbConnection oleDBconnection;
             public OleDbConnectionTest()
             {
-                oleDBconnection = new OleDbConnection(@"DataSource = AccessDemo.mdb;" + "Provider = Microsoft.Jet.OLEDB.4.0;");
+                oleDBconnection = new OleDbConnection(@"Data Source=AccessDemo.mdb;" + "Provider=Microsoft.Jet.OLEDB.4.0;");
 
-                List<string> MYTries = new List<string>();
+                //List<string> MYTries = new List<string>();
 
                 //OdbcConnectionStringBuilder A = new OdbcConnectionStringBuilder();
 
@@ -31,16 +31,16 @@ namespace Lektion1_2
 
 
         //        MYTries.Add("Provider=MSDASQL;Driver={MySQL ODBC 5.2 ANSI Driver};Server=localhost;PORT = 3306" + "DATABASE = dbdemo2;UID = demo-user");
-                MYTries.Add("Driver=MySQL ODBC 5.2 ANSI Driver;Server=localhost;PORT = 3306;Database = dbdemo2; UID = demo-user ");
+                //MYTries.Add("Driver=MySQL ODBC 5.2 ANSI Driver;Server=localhost;PORT = 3306;Database = dbdemo2; UID = demo-user ");
 
-                var odbcconnection = new OdbcConnection();
+                //var odbcconnection = new OdbcConnection();
 
-                for (int idx = 0; idx < MYTries.Count; idx++)
-                {
-                    odbcconnection.ConnectionString = MYTries[idx];
+                //for (int idx = 0; idx < MYTries.Count; idx++)
+                //{
+                //    odbcconnection.ConnectionString = MYTries[idx];
 
-                    odbcconnection.Open();
-                }
+                //    odbcconnection.Open();
+                //}
 
                 //odbcconnection.ConnectionString = A.ConnectionString;
 

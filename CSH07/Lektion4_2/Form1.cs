@@ -183,8 +183,6 @@ namespace Lektion4_2
 
         private void buttonBestellen_Click(object sender, EventArgs e)
         {
-           
-            
             string sqlInsert = "INSERT INTO bestellungen VALUES(NULL," + kundenID + ",'" + datestring + "'," + verkaeuferID + ")";
             int neueID = 0;
             try

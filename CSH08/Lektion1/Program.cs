@@ -31,20 +31,20 @@ namespace Lektion1
             {
                 while (reader.Read())
                 {
-                    if(reader.NodeType == XmlNodeType.Whitespace)
-                    {
-                        Console.Write(reader.NodeType + ":");
-                        for(int i = 0; i < reader.Value.Length;i++ )
-                        {
-                            int wsp = Convert.ToInt16(reader.Value[i]);
-                            Console.Write("" + wsp);
-                        }
-                        Console.Write("\n");
-                    }
-                    else
-                    {
+                    //if(reader.NodeType == XmlNodeType.Whitespace)
+                    //{
+                    //    Console.Write(reader.NodeType + ":");
+                    //    for(int i = 0; i < reader.Value.Length;i++ )
+                    //    {
+                    //        int wsp = Convert.ToInt16(reader.Value[i]);
+                    //        Console.Write("" + wsp);
+                    //    }
+                    //    Console.Write("\n");
+                    //}
+                    
+                    
                         Console.WriteLine(reader.NodeType);
-                    }
+                    
                     //Console.WriteLine(reader.NodeType);
                 }
             }
@@ -180,13 +180,13 @@ namespace Lektion1
             
             XmlVerarbeiten xml = new XmlVerarbeiten(@"C:\Users\Kahr_Zang\source\repos\CSH08\Lektion1\Kartei.xml");
             xml.Eingabe();
-            Console.WriteLine(KommentarTests.Programmschritt);
-            KommentarTests.Main();
-            KommentarTests obj = new KommentarTests();
-            obj.Methode();
-            
+            //Console.WriteLine(KommentarTests.Programmschritt);
+            //KommentarTests.Main();
+            //KommentarTests obj = new KommentarTests();
+            //obj.Methode();
+
             //xml.Lesen();
-            //xml.Ausgabe();
+            xml.Ausgabe();
             Console.ReadLine();
         }
     }

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lektion5_1</name>
+    </assembly>
+    <members>
+        <member name="T:Lektion5_1.KommentarTest1">
+            <summary>
+            Dokumentationskommentar vor einer 
+            Klassendeklaration
+            </summary>
+        </member>
+        <member name="F:Lektion5_1.KommentarTest1.programmschritt">
+            <summary>
+            Kommentar vor einem Klassenfeld
+            </summary>
+        </member>
+        <member name="E:Lektion5_1.KommentarTest1.AnyEvent">
+            <summary>
+            Event vom Typ "System.EventHandler"
+            </summary>
+        </member>
+        <member name="P:Lektion5_1.KommentarTest1.Programmschritt">
+            <summary>
+            Property,Zugriff auf "get"eingeschränkt
+            </summary>
+        </member>
+        <member name="M:Lektion5_1.KommentarTest1.#ctor">
+            <summary>
+            Der Parameterlose Konstruktor hat eine
+            Implementierung(Konsolenausgabe).
+            </summary>
+        </member>
+        <member name="M:Lektion5_1.KommentarTest1.Methode">
+            <summary>
+            Die Instanzmethode bewirkt eine Konsoleausgabe
+            </summary>
+        </member>
+        <member name="M:Lektion5_1.KommentarTest1.Main">
+            <summary>
+            Der Compiler erwartet einen Einstiegspunkt
+            (Main-Methode). Fehlt die Main-Methode,wird
+            die Klasse nicht kompiliert.
+            </summary>
+        </member>
+    </members>
+</doc>

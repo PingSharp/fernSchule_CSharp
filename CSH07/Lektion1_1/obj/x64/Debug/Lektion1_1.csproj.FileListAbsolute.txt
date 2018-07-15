@@ -5,3 +5,11 @@ C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_1\bin\x6
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_1\obj\x64\Debug\Lektion1_1.csprojResolveAssemblyReference.cache
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_1\obj\x64\Debug\Lektion1_1.exe
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_1\obj\x64\Debug\Lektion1_1.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\bin\x64\Debug\Lektion1_1.exe.config
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\bin\x64\Debug\Lektion1_1.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\bin\x64\Debug\Lektion1_1.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\bin\x64\Debug\MySql.Data.dll
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\obj\x64\Debug\Lektion1_1.csprojResolveAssemblyReference.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\obj\x64\Debug\Lektion1_1.csproj.CoreCompileInputs.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\obj\x64\Debug\Lektion1_1.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_1\obj\x64\Debug\Lektion1_1.pdb

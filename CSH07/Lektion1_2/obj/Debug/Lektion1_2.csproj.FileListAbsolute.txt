@@ -5,3 +5,11 @@ C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_2\obj\De
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_2\obj\Debug\Lektion1_2.exe
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_2\obj\Debug\Lektion1_2.pdb
 C:\Users\Kahr_Zang\Documents\Visual Studio 2015\Projects\CSH07\Lektion1_2\bin\Debug\AccessDemo.mdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\bin\Debug\AccessDemo.mdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\bin\Debug\Lektion1_2.exe.config
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\bin\Debug\Lektion1_2.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\bin\Debug\Lektion1_2.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\obj\Debug\Lektion1_2.csprojResolveAssemblyReference.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\obj\Debug\Lektion1_2.csproj.CoreCompileInputs.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\obj\Debug\Lektion1_2.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH07\Lektion1_2\obj\Debug\Lektion1_2.pdb
