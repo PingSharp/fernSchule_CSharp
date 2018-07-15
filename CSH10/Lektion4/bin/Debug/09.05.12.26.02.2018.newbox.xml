@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<box xmlns="http://www.linq-to-xml.de">
+  <card subject="XML" xmlns="">
+    <keyword>DTD</keyword>
+    <abstract>Wie erstellt man eine DTD?</abstract>
+    <content type="title">Erst Struktur planen,dann umsetzen.</content>
+    <content type="title">nicht reicht eine Anleitung aus.</content>
+    <source>Web</source>
+  </card>
+</box>

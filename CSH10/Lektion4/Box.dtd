@@ -1,0 +1,11 @@
+<!--DTD zum XML-Dokument “Box.xml“-->
+<!ELEMENT box (card)+>
+<!ELEMENT card (keyword+,abstract?,content*,source?,createDate,date?)>
+<!ELEMENT keyword (#PCDATA)>
+<!ELEMENT abstact (#PCDATA)>
+<!ELEMENT content (#PCDATA)>
+<!ELEMENT source (#PCDATA)>
+<!ELEMENT createDate (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST card subject CDATA #REQUIRED>
+<!ATTLIST content type (titel|text|quote|code|url|image) "text">

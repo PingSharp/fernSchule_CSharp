@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<box xmlns="http://www.linq-to-xml.de">
+  <card subject="XML" xmlns="">
+    <keyword>DTD</keyword>
+    <keyword>Wikipedia</keyword>
+    <abstract>Wie erstellt man eine DTD</abstract>
+    <content type="titel">Erst Struktur planen,dann umsetzen.</content>
+    <content type="text">Nicht immer reicht eine Anleitung aus,die in Wikipedia stehr:</content>
+    <content type="quote">Eine Dokumenttypdefinition...</content>
+    <content type="url">http://de.wikipedia.org/wiki/Dokumenttypdefinition</content>
+    <source>Web</source>27.02.201827.02.2018</card>
+</box>

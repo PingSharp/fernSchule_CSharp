@@ -1,0 +1,7 @@
+C:\Users\Kahr_Zang\source\repos\CSH10\palindromeNumber\bin\Debug\palindromeNumber.exe.config
+C:\Users\Kahr_Zang\source\repos\CSH10\palindromeNumber\bin\Debug\palindromeNumber.exe
+C:\Users\Kahr_Zang\source\repos\CSH10\palindromeNumber\bin\Debug\palindromeNumber.pdb
+C:\Users\Kahr_Zang\source\repos\CSH10\palindromeNumber\obj\Debug\palindromeNumber.csprojResolveAssemblyReference.cache
+C:\Users\Kahr_Zang\source\repos\CSH10\palindromeNumber\obj\Debug\palindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH10\palindromeNumber\obj\Debug\palindromeNumber.exe
+C:\Users\Kahr_Zang\source\repos\CSH10\palindromeNumber\obj\Debug\palindromeNumber.pdb

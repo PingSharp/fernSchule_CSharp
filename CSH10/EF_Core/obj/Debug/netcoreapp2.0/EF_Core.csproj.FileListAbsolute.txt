@@ -1,0 +1,11 @@
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.deps.json
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.runtimeconfig.json
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.runtimeconfig.dev.json
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.dll
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.pdb
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.csproj.CoreCompileInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.AssemblyInfoInputs.cache
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.AssemblyInfo.cs
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.dll
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.pdb
+C:\Users\Kahr_Zang\source\repos\CSH10\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.csprojResolveAssemblyReference.cache
