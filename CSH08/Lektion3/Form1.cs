@@ -192,6 +192,7 @@ namespace Lektion3
                 for (int i = 0; i < nodelist.Count; i++)
                 {
                     ausgabe += nodelist[i].InnerText + newLine;
+                  
                 }
                 tbAusgabetextBox.Text = ausgabe;
                 textBoxByTagName.Text = "";

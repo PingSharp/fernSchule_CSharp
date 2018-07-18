@@ -18,7 +18,8 @@ namespace Lektion4_1
             InitializeComponent();
             try
             {
-                this.kartei.ReadXmlSchema("Karteikasten.xsd");
+                this.kartei.ReadXml(xmlFile);
+                //this.kartei.ReadXmlSchema("Karteikasten.xsd");
                 //XmlReadMode mode =  this.kartei.ReadXml(xmlFile);
                 this.Text = xmlFile;
                 toolStripStatusLabel1.Text = string.Format("Datei\"{0}\" gelesen", xmlFile);

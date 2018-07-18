@@ -41,6 +41,7 @@
             this.kartei1 = new Lektion4_1.kartei();
             this.dataGrid1 = new System.Windows.Forms.DataGrid();
             this.karteiBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.karteiBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.karteiBindingSource)).BeginInit();
@@ -48,6 +49,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.kartei1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGrid1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.karteiBindingSource1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.karteiBindingSource2)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -140,6 +142,11 @@
             this.karteiBindingSource1.DataSource = this.kartei;
             this.karteiBindingSource1.Position = 0;
             // 
+            // karteiBindingSource2
+            // 
+            this.karteiBindingSource2.DataSource = this.kartei;
+            this.karteiBindingSource2.Position = 0;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -161,6 +168,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.kartei1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGrid1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.karteiBindingSource1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.karteiBindingSource2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -180,6 +188,7 @@
         private kartei kartei1;
         private System.Windows.Forms.DataGrid dataGrid1;
         private System.Windows.Forms.BindingSource karteiBindingSource1;
+        private System.Windows.Forms.BindingSource karteiBindingSource2;
     }
 }
 

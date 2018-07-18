@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kahr_Zang\\source\\repos\\CSH09\\Lektion2\\Lektion2.csproj",
+      "projectUniqueName": "E:\\EigeneDaten\\Documents\\GitHub\\fernSchule_CSharp\\CSH09\\Lektion2\\Lektion2.csproj",
       "projectName": "Lektion2",
-      "projectPath": "C:\\Users\\Kahr_Zang\\source\\repos\\CSH09\\Lektion2\\Lektion2.csproj",
+      "projectPath": "E:\\EigeneDaten\\Documents\\GitHub\\fernSchule_CSharp\\CSH09\\Lektion2\\Lektion2.csproj",
       "packagesPath": "C:\\Users\\Kahr_Zang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kahr_Zang\\source\\repos\\CSH09\\Lektion2\\obj\\",
+      "outputPath": "E:\\EigeneDaten\\Documents\\GitHub\\fernSchule_CSharp\\CSH09\\Lektion2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

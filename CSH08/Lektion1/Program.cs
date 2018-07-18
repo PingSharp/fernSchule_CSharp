@@ -102,7 +102,7 @@ namespace Lektion1
                             Console.Write(reader.Value);
                             break;
                     }
-                    
+                     
                 }
 
             }

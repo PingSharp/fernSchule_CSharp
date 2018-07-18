@@ -8,3 +8,13 @@ C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Debug\Lektion4_1.csproj.Gen
 C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Debug\Lektion4_1.csproj.CoreCompileInputs.cache
 C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Debug\Lektion4_1.exe
 C:\Users\Kahr_Zang\source\repos\CSH08\Lektion4_1\obj\Debug\Lektion4_1.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\bin\Debug\Lektion4_1.exe.config
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\bin\Debug\Lektion4_1.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\bin\Debug\Lektion4_1.pdb
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\obj\Debug\Lektion4_1.csprojResolveAssemblyReference.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\obj\Debug\Lektion4_1.Form1.resources
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\obj\Debug\Lektion4_1.Properties.Resources.resources
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\obj\Debug\Lektion4_1.csproj.GenerateResource.Cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\obj\Debug\Lektion4_1.csproj.CoreCompileInputs.cache
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\obj\Debug\Lektion4_1.exe
+E:\EigeneDaten\Documents\GitHub\fernSchule_CSharp\CSH08\Lektion4_1\obj\Debug\Lektion4_1.pdb
